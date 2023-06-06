@@ -10,5 +10,4 @@ Core Template for building a hypercasual game.
  - Sound and Haptic
  - Camera Management (Cinemachine)
  - DoTween
- - Pixelplacement
- - 
+ - Pixelplacement  
